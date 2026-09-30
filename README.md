@@ -13,7 +13,7 @@ Pre-built standalone installers are available for download directly from the rep
 | Operating System | Setup Installer | Architecture |
 | :--- | :--- | :--- |
 | **Windows 10 / Windows 11** | [`GoogleAuthenticator_Win10_11_Setup.exe`](https://github.com/w1n1ngdz/AuthenticatorPC/blob/main/GoogleAuthenticator_Win10_11_Setup.exe) | 64-bit (x64) |
-| **Windows 7 / Legacy Windows** | [`GoogleAuthenticator_Win7_32bit_Setup.exe`](https://github.com/w1n1ngdz/AuthenticatorPC/releases) | 32-bit (x86) & 64-bit |
+| **Windows 7 / Legacy Windows** | [`GoogleAuthenticator_Win7_32bit_Setup.exe`](https://github.com/w1n1ngdz/AuthenticatorPC/blob/main/GoogleAuthenticator_Win7_32bit_Setup.exe) | 32-bit (x86) & 64-bit |
 
 > [!NOTE]
 > No Python runtime or technical dependencies required. Just download and run the installer.
